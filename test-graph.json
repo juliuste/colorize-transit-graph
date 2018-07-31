@@ -1,0 +1,3825 @@
+{
+    "nodes": [
+        {
+            "id": 5766353,
+            "metadata": {
+                "x": 0.5372613586111111,
+                "y": 0.32630974409243,
+                "longitude": 13.4140891,
+                "latitude": 52.5216433,
+                "name": "U Alexanderplatz"
+            },
+            "name": "Berlin, Alexanderplatz"
+        },
+        {
+            "id": 23333,
+            "metadata": {
+                "x": 0.5372811908333334,
+                "y": 0.32631407829083636,
+                "longitude": 13.4212287,
+                "latitude": 52.5206939,
+                "name": "U Schillingstraße"
+            },
+            "name": "U Schillingstraße"
+        },
+        {
+            "id": 5842759,
+            "metadata": {
+                "x": 0.5373118019444445,
+                "y": 0.32632652843270854,
+                "longitude": 13.4322487,
+                "latitude": 52.5179666,
+                "name": "U Strausberger Platz"
+            },
+            "name": "U Strausberger Platz"
+        },
+        {
+            "id": 4196777,
+            "metadata": {
+                "x": 0.5373481827777777,
+                "y": 0.3263327187501717,
+                "longitude": 13.4453458,
+                "latitude": 52.5166105,
+                "name": "U Weberwiese"
+            },
+            "name": "Berlin, U Weberwiese"
+        },
+        {
+            "id": 5757994,
+            "metadata": {
+                "x": 0.5373722702777778,
+                "y": 0.3263367635111383,
+                "longitude": 13.4540173,
+                "latitude": 52.5157244,
+                "name": "U Frankfurter Tor"
+            },
+            "name": "U Frankfurter Tor"
+        },
+        {
+            "id": 5842758,
+            "metadata": {
+                "x": 0.5374038761111111,
+                "y": 0.3263419059593287,
+                "longitude": 13.4653954,
+                "latitude": 52.5145978,
+                "name": "U Samariterstraße"
+            },
+            "name": "U Samariterstraße"
+        },
+        {
+            "id": 7721111,
+            "metadata": {
+                "x": 0.5374325116666667,
+                "y": 0.3263466671481066,
+                "longitude": 13.4757042,
+                "latitude": 52.5135547,
+                "name": "U Frankfurter Allee"
+            },
+            "name": "Berlin, Frankfurter Allee"
+        },
+        {
+            "id": 5837155,
+            "metadata": {
+                "x": 0.5374652372222222,
+                "y": 0.3263520950666978,
+                "longitude": 13.4874854,
+                "latitude": 52.5123655,
+                "name": "U Magdalenenstraße"
+            },
+            "name": "U Magdalenenstraße"
+        },
+        {
+            "id": 7721016,
+            "metadata": {
+                "x": 0.5374969311111111,
+                "y": 0.3263583124364145,
+                "longitude": 13.4988952,
+                "latitude": 52.5110033,
+                "name": "U Lichtenberg"
+            },
+            "name": "Berlin, Lichtenberg"
+        },
+        {
+            "id": 6914398,
+            "metadata": {
+                "x": 0.5375365258333333,
+                "y": 0.32638219060268625,
+                "longitude": 13.5131493,
+                "latitude": 52.5057713,
+                "name": "U Friedrichsfelde"
+            },
+            "name": "U Friedrichsfelde"
+        },
+        {
+            "id": 8435157,
+            "metadata": {
+                "x": 0.5375642313888889,
+                "y": 0.32642099933732965,
+                "longitude": 13.5231233,
+                "latitude": 52.4972665,
+                "name": "U Tierpark"
+            },
+            "name": "Berlin, U Tierpark"
+        },
+        {
+            "id": 7720980,
+            "metadata": {
+                "x": 0.5376291330555556,
+                "y": 0.326410816923473,
+                "longitude": 13.5464879,
+                "latitude": 52.4994981,
+                "name": "U Biesdorf-Süd"
+            },
+            "name": "Berlin, U Biesdorf-Süd"
+        },
+        {
+            "id": 5763787,
+            "metadata": {
+                "x": 0.5376699802777778,
+                "y": 0.3263836641830907,
+                "longitude": 13.5611929,
+                "latitude": 52.5054484,
+                "name": "U Elsterwerdaer Platz"
+            },
+            "name": "Berlin, U Elsterwerdaer Platz"
+        },
+        {
+            "id": 1389346,
+            "metadata": {
+                "x": 0.5377113486111111,
+                "y": 0.3263511146563487,
+                "longitude": 13.5760855,
+                "latitude": 52.5125803,
+                "name": "S+U Wuhletal"
+            },
+            "name": "S+U Wuhletal"
+        },
+        {
+            "id": 5837157,
+            "metadata": {
+                "x": 0.5377473183333333,
+                "y": 0.32631212302838875,
+                "longitude": 13.5890346,
+                "latitude": 52.5211222,
+                "name": "U Kaulsdorf-Nord"
+            },
+            "name": "U Kaulsdorf-Nord"
+        },
+        {
+            "id": 5837156,
+            "metadata": {
+                "x": 0.5377519169444445,
+                "y": 0.3262781176782091,
+                "longitude": 13.5906901,
+                "latitude": 52.5285704,
+                "name": "U Kienberg (Gärten der Welt)"
+            },
+            "name": "U Kienberg (Gärten der Welt)"
+        },
+        {
+            "id": 2302439,
+            "metadata": {
+                "x": 0.5377699425,
+                "y": 0.3262534266062229,
+                "longitude": 13.5971793,
+                "latitude": 52.5339777,
+                "name": "U Cottbusser Platz"
+            },
+            "name": "U Cottbusser Platz"
+        },
+        {
+            "id": 2302436,
+            "metadata": {
+                "x": 0.5377983311111111,
+                "y": 0.3262405855722067,
+                "longitude": 13.6073992,
+                "latitude": 52.5367896,
+                "name": "U Hellersdorf"
+            },
+            "name": "U Hellersdorf"
+        },
+        {
+            "id": 7721738,
+            "metadata": {
+                "x": 0.5378307608333334,
+                "y": 0.3262304894458789,
+                "longitude": 13.6190739,
+                "latitude": 52.5390003,
+                "name": "U Louis-Lewin-Straße"
+            },
+            "name": "U Louis-Lewin-Straße"
+        },
+        {
+            "id": 5843153,
+            "metadata": {
+                "x": 0.5378711716666666,
+                "y": 0.32623387771267937,
+                "longitude": 13.6336218,
+                "latitude": 52.5382584,
+                "name": "U Hönow"
+            },
+            "name": "Berlin, U Hönow"
+        },
+        {
+            "id": 7721015,
+            "metadata": {
+                "x": 0.5372544616666667,
+                "y": 0.3261036858176712,
+                "longitude": 13.4116062,
+                "latitude": 52.5667564,
+                "name": "U Pankow"
+            },
+            "name": "Berlin, S+U Pankow"
+        },
+        {
+            "id": 7720942,
+            "metadata": {
+                "x": 0.5372587436111111,
+                "y": 0.3261374881927979,
+                "longitude": 13.4131477,
+                "latitude": 52.5593591,
+                "name": "U Vinetastraße"
+            },
+            "name": "U Vinetastraße"
+        },
+        {
+            "id": 7721013,
+            "metadata": {
+                "x": 0.5372600361111111,
+                "y": 0.32618349400346874,
+                "longitude": 13.413613,
+                "latitude": 52.5492892,
+                "name": "U Schönhauser Allee"
+            },
+            "name": "Berlin, S+U Schönhauser Allee"
+        },
+        {
+            "id": 7721090,
+            "metadata": {
+                "x": 0.5372558294444445,
+                "y": 0.32621900937684917,
+                "longitude": 13.4120986,
+                "latitude": 52.5415139,
+                "name": "U Eberswalder Straße"
+            },
+            "name": "U Eberswalder Straße"
+        },
+        {
+            "id": 7720981,
+            "metadata": {
+                "x": 0.5372569577777778,
+                "y": 0.32626223524715836,
+                "longitude": 13.4125048,
+                "latitude": 52.5320487,
+                "name": "U Senefelderplatz"
+            },
+            "name": "U Senefelderplatz"
+        },
+        {
+            "id": 7721088,
+            "metadata": {
+                "x": 0.5372515675,
+                "y": 0.3262838798454473,
+                "longitude": 13.4105643,
+                "latitude": 52.5273084,
+                "name": "U Rosa-Luxemburg-Platz"
+            },
+            "name": "U Rosa-Luxemburg-Platz"
+        },
+        {
+            "id": 1645144,
+            "metadata": {
+                "x": 0.5372564333333334,
+                "y": 0.32633001413308943,
+                "longitude": 13.412316,
+                "latitude": 52.517203,
+                "name": "U Klosterstraße"
+            },
+            "name": "U Klosterstraße"
+        },
+        {
+            "id": 4593882,
+            "metadata": {
+                "x": 0.5372504111111112,
+                "y": 0.32635198963173656,
+                "longitude": 13.410148,
+                "latitude": 52.5123886,
+                "name": "U Märkisches Museum"
+            },
+            "name": "U Märkisches Museum"
+        },
+        {
+            "id": 4593886,
+            "metadata": {
+                "x": 0.5372320097222222,
+                "y": 0.32635671406774247,
+                "longitude": 13.4035235,
+                "latitude": 52.5113535,
+                "name": "U Spittelmarkt"
+            },
+            "name": "U Spittelmarkt"
+        },
+        {
+            "id": 7720988,
+            "metadata": {
+                "x": 0.5372099561111111,
+                "y": 0.32634741662222977,
+                "longitude": 13.3955842,
+                "latitude": 52.5133905,
+                "name": "U Hausvogteiplatz"
+            },
+            "name": "U Hausvogteiplatz"
+        },
+        {
+            "id": 7720948,
+            "metadata": {
+                "x": 0.5371949108333334,
+                "y": 0.32635294310865587,
+                "longitude": 13.3901679,
+                "latitude": 52.5121797,
+                "name": "U Stadtmitte U2"
+            },
+            "name": "U Stadtmitte"
+        },
+        {
+            "id": 5710288,
+            "metadata": {
+                "x": 0.5371792030555556,
+                "y": 0.3263550485923749,
+                "longitude": 13.3845131,
+                "latitude": 52.5117184,
+                "name": "U Mohrenstraße"
+            },
+            "name": "U Mohrenstraße"
+        },
+        {
+            "id": 5686717,
+            "metadata": {
+                "x": 0.5371612336111111,
+                "y": 0.32636676413531895,
+                "longitude": 13.3780441,
+                "latitude": 52.5091515,
+                "name": "U Potsdamer Platz"
+            },
+            "name": "Berlin, Potsdamer Platz"
+        },
+        {
+            "id": 2355893,
+            "metadata": {
+                "x": 0.5371521347222222,
+                "y": 0.3263923370500221,
+                "longitude": 13.3747685,
+                "latitude": 52.5035479,
+                "name": "U Mendelssohn-Bartholdy-Park"
+            },
+            "name": "U Mendelssohn-Bartholdy-Park"
+        },
+        {
+            "id": 7721012,
+            "metadata": {
+                "x": 0.5371499633333333,
+                "y": 0.3264123865710613,
+                "longitude": 13.3739868,
+                "latitude": 52.4991541,
+                "name": "U Gleisdreieck"
+            },
+            "name": "U Gleisdreieck"
+        },
+        {
+            "id": 7721744,
+            "metadata": {
+                "x": 0.5371194358333333,
+                "y": 0.32641929059317465,
+                "longitude": 13.3629969,
+                "latitude": 52.497641,
+                "name": "U Bülowstraße"
+            },
+            "name": "U Bülowstraße"
+        },
+        {
+            "id": 7721011,
+            "metadata": {
+                "x": 0.5370955638888889,
+                "y": 0.3264111577753159,
+                "longitude": 13.354403,
+                "latitude": 52.4994234,
+                "name": "U Nollendorfplatz"
+            },
+            "name": "U Nollendorfplatz"
+        },
+        {
+            "id": 5885101,
+            "metadata": {
+                "x": 0.5370638661111111,
+                "y": 0.32640014071256,
+                "longitude": 13.3429918,
+                "latitude": 52.5018378,
+                "name": "U Wittenbergplatz"
+            },
+            "name": "U Wittenbergplatz"
+        },
+        {
+            "id": 7721000,
+            "metadata": {
+                "x": 0.5370349280555555,
+                "y": 0.3263805043461116,
+                "longitude": 13.3325741,
+                "latitude": 52.5061408,
+                "name": "U Zoologischer Garten"
+            },
+            "name": "Berlin, S+U Zoologischer Garten"
+        },
+        {
+            "id": 7721096,
+            "metadata": {
+                "x": 0.5370054494444444,
+                "y": 0.3263540855405657,
+                "longitude": 13.3219618,
+                "latitude": 52.5119294,
+                "name": "U Ernst-Reuter-Platz"
+            },
+            "name": "U Ernst-Reuter-Platz"
+        },
+        {
+            "id": 7721097,
+            "metadata": {
+                "x": 0.5369740594444444,
+                "y": 0.3263539591111462,
+                "longitude": 13.3106614,
+                "latitude": 52.5119571,
+                "name": "U Deutsche Oper"
+            },
+            "name": "U Deutsche Oper"
+        },
+        {
+            "id": 7721008,
+            "metadata": {
+                "x": 0.5369573452777778,
+                "y": 0.32635614034978144,
+                "longitude": 13.3046443,
+                "latitude": 52.5114792,
+                "name": "U Bismarckstraße"
+            },
+            "name": "U Bismarckstraße"
+        },
+        {
+            "id": 5873395,
+            "metadata": {
+                "x": 0.53693282,
+                "y": 0.3263588222503562,
+                "longitude": 13.2958152,
+                "latitude": 52.5108916,
+                "name": "U Sophie-Charlotte-Platz"
+            },
+            "name": "Berlin, U Sophie-Charlotte-Platz"
+        },
+        {
+            "id": 5873394,
+            "metadata": {
+                "x": 0.5368952872222222,
+                "y": 0.3263626770773075,
+                "longitude": 13.2823034,
+                "latitude": 52.510047,
+                "name": "U Kaiserdamm"
+            },
+            "name": "U Kaiserdamm"
+        },
+        {
+            "id": 8433878,
+            "metadata": {
+                "x": 0.5368670608333334,
+                "y": 0.32636284320836906,
+                "longitude": 13.2721419,
+                "latitude": 52.5100106,
+                "name": "U Theodor-Heuss-Platz"
+            },
+            "name": "Berlin, U Theodor-Heuss-Platz"
+        },
+        {
+            "id": 8465463,
+            "metadata": {
+                "x": 0.5368296427777778,
+                "y": 0.3263340785767794,
+                "longitude": 13.2586714,
+                "latitude": 52.5163126,
+                "name": "U Neu-Westend"
+            },
+            "name": "Berlin, U Neu-Westend"
+        },
+        {
+            "id": 7720974,
+            "metadata": {
+                "x": 0.5368069394444445,
+                "y": 0.3263303747508077,
+                "longitude": 13.2504982,
+                "latitude": 52.517124,
+                "name": "U Olympia-Stadion"
+            },
+            "name": "Berlin, U Olympia-Stadion"
+        },
+        {
+            "id": 8120820,
+            "metadata": {
+                "x": 0.5367813766666667,
+                "y": 0.3262911932674612,
+                "longitude": 13.2412956,
+                "latitude": 52.5257066,
+                "name": "U Ruhleben"
+            },
+            "name": "U Ruhleben"
+        },
+        {
+            "id": 5885100,
+            "metadata": {
+                "x": 0.5370193247222222,
+                "y": 0.3263957139133606,
+                "longitude": 13.3269569,
+                "latitude": 52.5028079,
+                "name": "U Uhlandstraße"
+            },
+            "name": "U Uhlandstraße"
+        },
+        {
+            "id": 1244521,
+            "metadata": {
+                "x": 0.5370328280555555,
+                "y": 0.32639080147106675,
+                "longitude": 13.3318181,
+                "latitude": 52.5038844,
+                "name": "U Kurfürstendamm"
+            },
+            "name": "U Kurfürstendamm"
+        },
+        {
+            "id": 5864581,
+            "metadata": {
+                "x": 0.5371164872222223,
+                "y": 0.32640888496245857,
+                "longitude": 13.3619354,
+                "latitude": 52.4999215,
+                "name": "U Kurfürstenstraße"
+            },
+            "name": "U Kurfürstenstraße"
+        },
+        {
+            "id": 7721006,
+            "metadata": {
+                "x": 0.5371761008333333,
+                "y": 0.3264126334244045,
+                "longitude": 13.3833963,
+                "latitude": 52.4991,
+                "name": "U Möckernbrücke"
+            },
+            "name": "U Möckernbrücke"
+        },
+        {
+            "id": 7720996,
+            "metadata": {
+                "x": 0.5371975180555556,
+                "y": 0.32641886488776006,
+                "longitude": 13.3911065,
+                "latitude": 52.4977343,
+                "name": "U Hallesches Tor"
+            },
+            "name": "U Hallesches Tor"
+        },
+        {
+            "id": 5736036,
+            "metadata": {
+                "x": 0.5372389652777778,
+                "y": 0.326415905001022,
+                "longitude": 13.4060275,
+                "latitude": 52.498383,
+                "name": "U Prinzenstraße"
+            },
+            "name": "U Prinzenstraße"
+        },
+        {
+            "id": 7721264,
+            "metadata": {
+                "x": 0.5372749430555556,
+                "y": 0.32641320424307924,
+                "longitude": 13.4189795,
+                "latitude": 52.4989749,
+                "name": "U Kottbusser Tor"
+            },
+            "name": "Kottbusser Tor"
+        },
+        {
+            "id": 5717197,
+            "metadata": {
+                "x": 0.5373011380555556,
+                "y": 0.32641181940039915,
+                "longitude": 13.4284097,
+                "latitude": 52.4992784,
+                "name": "U Görlitzer Bahnhof"
+            },
+            "name": "U Görlitzer Bahnhof"
+        },
+        {
+            "id": 4593884,
+            "metadata": {
+                "x": 0.5373380369444445,
+                "y": 0.32640444649217865,
+                "longitude": 13.4416933,
+                "latitude": 52.5008942,
+                "name": "U Schlesisches Tor"
+            },
+            "name": "U Schlesisches Tor"
+        },
+        {
+            "id": 8420881,
+            "metadata": {
+                "x": 0.5373584394444444,
+                "y": 0.32638491870306163,
+                "longitude": 13.4490382,
+                "latitude": 52.5051735,
+                "name": "U Warschauer Straße"
+            },
+            "name": "Berlin, S+U Warschauer Straße"
+        },
+        {
+            "id": 5147807,
+            "metadata": {
+                "x": 0.5367814647222222,
+                "y": 0.32666702474149495,
+                "longitude": 13.2413273,
+                "latitude": 52.4433126,
+                "name": "U Krumme Lanke"
+            },
+            "name": "U Krumme Lanke"
+        },
+        {
+            "id": 5880427,
+            "metadata": {
+                "x": 0.5368154052777778,
+                "y": 0.3266367863936265,
+                "longitude": 13.2535459,
+                "latitude": 52.4499475,
+                "name": "U Onkel Toms Hütte"
+            },
+            "name": "U Onkel Toms Hütte"
+        },
+        {
+            "id": 5147891,
+            "metadata": {
+                "x": 0.5368584886111111,
+                "y": 0.3266351501325319,
+                "longitude": 13.2690559,
+                "latitude": 52.4503065,
+                "name": "U Oskar-Helene-Heim"
+            },
+            "name": "U Oskar-Helene-Heim"
+        },
+        {
+            "id": 5880428,
+            "metadata": {
+                "x": 0.5368940305555555,
+                "y": 0.3266318379163946,
+                "longitude": 13.281851,
+                "latitude": 52.4510332,
+                "name": "U Freie Universität (Thielplatz)"
+            },
+            "name": "U Freie Universität (Thielplatz)"
+        },
+        {
+            "id": 5679048,
+            "metadata": {
+                "x": 0.5369161825,
+                "y": 0.3266026067323391,
+                "longitude": 13.2898257,
+                "latitude": 52.457446,
+                "name": "U Dahlem-Dorf"
+            },
+            "name": "U Dahlem-Dorf"
+        },
+        {
+            "id": 7720970,
+            "metadata": {
+                "x": 0.536933335,
+                "y": 0.3265721015350994,
+                "longitude": 13.2960006,
+                "latitude": 52.4641373,
+                "name": "U Podbielskiallee"
+            },
+            "name": "U Podbielskiallee"
+        },
+        {
+            "id": 7721080,
+            "metadata": {
+                "x": 0.5369691052777777,
+                "y": 0.3265592047391224,
+                "longitude": 13.3088779,
+                "latitude": 52.4669659,
+                "name": "U Breitenbachplatz"
+            },
+            "name": "U Breitenbachplatz"
+        },
+        {
+            "id": 7721079,
+            "metadata": {
+                "x": 0.5369848063888889,
+                "y": 0.32652787209418116,
+                "longitude": 13.3145303,
+                "latitude": 52.4738372,
+                "name": "U Rüdesheimer Platz"
+            },
+            "name": "U Rüdesheimer Platz"
+        },
+        {
+            "id": 7720997,
+            "metadata": {
+                "x": 0.5369809741666667,
+                "y": 0.32649951332206434,
+                "longitude": 13.3131507,
+                "latitude": 52.4800554,
+                "name": "U Heidelberger Platz"
+            },
+            "name": "Berlin, S+U Heidelberger Platz"
+        },
+        {
+            "id": 7721110,
+            "metadata": {
+                "x": 0.5369877694444445,
+                "y": 0.32645092076166776,
+                "longitude": 13.315597,
+                "latitude": 52.4907082,
+                "name": "U Fehrbelliner Platz"
+            },
+            "name": "U Fehrbelliner Platz"
+        },
+        {
+            "id": 7720960,
+            "metadata": {
+                "x": 0.5370148025,
+                "y": 0.32643483848802785,
+                "longitude": 13.3253289,
+                "latitude": 52.4942333,
+                "name": "U Hohenzollernplatz"
+            },
+            "name": "U Hohenzollernplatz"
+        },
+        {
+            "id": 7721108,
+            "metadata": {
+                "x": 0.5370343188888889,
+                "y": 0.32642211993707654,
+                "longitude": 13.3323548,
+                "latitude": 52.4970209,
+                "name": "U Spichernstraße"
+            },
+            "name": "U Spichernstraße"
+        },
+        {
+            "id": 7720985,
+            "metadata": {
+                "x": 0.5370462197222222,
+                "y": 0.32640593542350316,
+                "longitude": 13.3366391,
+                "latitude": 52.5005679,
+                "name": "U Augsburger Straße"
+            },
+            "name": "U Augsburger Straße"
+        },
+        {
+            "id": 177616,
+            "metadata": {
+                "x": 0.5370659608333334,
+                "y": 0.32650425389689763,
+                "longitude": 13.3437459,
+                "latitude": 52.479016,
+                "name": "U Innsbrucker Platz"
+            },
+            "name": "Berlin, S+U Innsbrucker Platz"
+        },
+        {
+            "id": 7720978,
+            "metadata": {
+                "x": 0.5370610736111111,
+                "y": 0.32648442702229485,
+                "longitude": 13.3419865,
+                "latitude": 52.483363,
+                "name": "U Rathaus Schöneberg"
+            },
+            "name": "U Rathaus Schöneberg"
+        },
+        {
+            "id": 7721107,
+            "metadata": {
+                "x": 0.5370567427777778,
+                "y": 0.3264567432022796,
+                "longitude": 13.3404274,
+                "latitude": 52.4894319,
+                "name": "U Bayerischer Platz"
+            },
+            "name": "U Bayerischer Platz"
+        },
+        {
+            "id": 7720977,
+            "metadata": {
+                "x": 0.5370657002777778,
+                "y": 0.3264255492254276,
+                "longitude": 13.3436521,
+                "latitude": 52.4962693,
+                "name": "U Viktoria-Luise-Platz"
+            },
+            "name": "U Viktoria-Luise-Platz"
+        },
+        {
+            "id": 8419692,
+            "metadata": {
+                "x": 0.5374850319444444,
+                "y": 0.3267885611171901,
+                "longitude": 13.4946115,
+                "latitude": 52.416635,
+                "name": "U Rudow"
+            },
+            "name": "Berlin, U Rudow"
+        },
+        {
+            "id": 1206986,
+            "metadata": {
+                "x": 0.5374541777777778,
+                "y": 0.3267571649499686,
+                "longitude": 13.483504,
+                "latitude": 52.4235281,
+                "name": "U Zwickauer Damm"
+            },
+            "name": "U Zwickauer Damm"
+        },
+        {
+            "id": 5829684,
+            "metadata": {
+                "x": 0.5374276697222222,
+                "y": 0.3267578208804091,
+                "longitude": 13.4739611,
+                "latitude": 52.4233841,
+                "name": "U Wutzkyallee"
+            },
+            "name": "U Wutzkyallee"
+        },
+        {
+            "id": 5689162,
+            "metadata": {
+                "x": 0.5373941916666667,
+                "y": 0.32675062557072865,
+                "longitude": 13.461909,
+                "latitude": 52.4249637,
+                "name": "U Lipschitzallee"
+            },
+            "name": "U Lipschitzallee"
+        },
+        {
+            "id": 5668728,
+            "metadata": {
+                "x": 0.5373701780555555,
+                "y": 0.3267296089253004,
+                "longitude": 13.4532641,
+                "latitude": 52.4295772,
+                "name": "U Johannisthaler Chaussee"
+            },
+            "name": "U Johannisthaler Chaussee"
+        },
+        {
+            "id": 5689161,
+            "metadata": {
+                "x": 0.5373558222222222,
+                "y": 0.3266901722364764,
+                "longitude": 13.448096,
+                "latitude": 52.4382329,
+                "name": "U Britz-Süd"
+            },
+            "name": "Berlin, U Britz-Süd"
+        },
+        {
+            "id": 7721085,
+            "metadata": {
+                "x": 0.5373604472222222,
+                "y": 0.3266586084660654,
+                "longitude": 13.449761,
+                "latitude": 52.4451594,
+                "name": "U Parchimer Allee"
+            },
+            "name": "U Parchimer Allee"
+        },
+        {
+            "id": 7721084,
+            "metadata": {
+                "x": 0.5373590555555555,
+                "y": 0.32662703517428987,
+                "longitude": 13.44926,
+                "latitude": 52.4520869,
+                "name": "U Blaschkoallee"
+            },
+            "name": "U Blaschkoallee"
+        },
+        {
+            "id": 5683976,
+            "metadata": {
+                "x": 0.5373463063888889,
+                "y": 0.32657652535649107,
+                "longitude": 13.4446703,
+                "latitude": 52.463167,
+                "name": "U Grenzallee"
+            },
+            "name": "U Grenzallee"
+        },
+        {
+            "id": 7720936,
+            "metadata": {
+                "x": 0.53733847,
+                "y": 0.3265494169194121,
+                "longitude": 13.4418492,
+                "latitude": 52.4691125,
+                "name": "U Neukölln"
+            },
+            "name": "Berlin, S+U Neukölln"
+        },
+        {
+            "id": 7721083,
+            "metadata": {
+                "x": 0.5373311558333334,
+                "y": 0.32651492593760556,
+                "longitude": 13.4392161,
+                "latitude": 52.476676,
+                "name": "U Karl-Marx-Straße"
+            },
+            "name": "U Karl-Marx-Straße"
+        },
+        {
+            "id": 1655775,
+            "metadata": {
+                "x": 0.5373162880555555,
+                "y": 0.32649096322019205,
+                "longitude": 13.4338637,
+                "latitude": 52.48193,
+                "name": "U Rathaus Neukölln"
+            },
+            "name": "Berlin, U Rathaus Neukölln"
+        },
+        {
+            "id": 7721260,
+            "metadata": {
+                "x": 0.5372887947222222,
+                "y": 0.3264700083199774,
+                "longitude": 13.4239661,
+                "latitude": 52.486524,
+                "name": "U Hermannplatz"
+            },
+            "name": "U Hermannplatz"
+        },
+        {
+            "id": 7721082,
+            "metadata": {
+                "x": 0.5372425194444445,
+                "y": 0.3264567847155878,
+                "longitude": 13.407307,
+                "latitude": 52.4894228,
+                "name": "U Südstern"
+            },
+            "name": "U Südstern"
+        },
+        {
+            "id": 6015042,
+            "metadata": {
+                "x": 0.5372090469444445,
+                "y": 0.3264475329659765,
+                "longitude": 13.3952569,
+                "latitude": 52.4914508,
+                "name": "U Gneisenaustraße"
+            },
+            "name": "Berlin, U Gneisenaustraße"
+        },
+        {
+            "id": 8413317,
+            "metadata": {
+                "x": 0.5371914586111111,
+                "y": 0.3264337882206689,
+                "longitude": 13.3889251,
+                "latitude": 52.4944635,
+                "name": "U Mehringdamm"
+            },
+            "name": "Berlin, U Mehringdamm"
+        },
+        {
+            "id": 7721002,
+            "metadata": {
+                "x": 0.5371399427777778,
+                "y": 0.3264402585466843,
+                "longitude": 13.3703794,
+                "latitude": 52.4930453,
+                "name": "U Yorckstraße"
+            },
+            "name": "Berlin, S+U Yorckstraße"
+        },
+        {
+            "id": 5885769,
+            "metadata": {
+                "x": 0.5371106772222223,
+                "y": 0.326452079058976,
+                "longitude": 13.3598438,
+                "latitude": 52.4904543,
+                "name": "U Kleistpark"
+            },
+            "name": "U Kleistpark"
+        },
+        {
+            "id": 7721066,
+            "metadata": {
+                "x": 0.5370827838888889,
+                "y": 0.3264561086406418,
+                "longitude": 13.3498022,
+                "latitude": 52.489571,
+                "name": "U Eisenacher Straße"
+            },
+            "name": "U Eisenacher Straße"
+        },
+        {
+            "id": 7721109,
+            "metadata": {
+                "x": 0.5370291547222222,
+                "y": 0.3264665068045861,
+                "longitude": 13.3304957,
+                "latitude": 52.4872916,
+                "name": "U Berliner Straße"
+            },
+            "name": "U Berliner Straße"
+        },
+        {
+            "id": 7721074,
+            "metadata": {
+                "x": 0.5370044844444445,
+                "y": 0.32647027243649485,
+                "longitude": 13.3216144,
+                "latitude": 52.4864661,
+                "name": "U Blissestraße"
+            },
+            "name": "U Blissestraße"
+        },
+        {
+            "id": 7721075,
+            "metadata": {
+                "x": 0.5369693794444445,
+                "y": 0.3264321594285291,
+                "longitude": 13.3089766,
+                "latitude": 52.4948205,
+                "name": "U Konstanzer Straße"
+            },
+            "name": "U Konstanzer Straße"
+        },
+        {
+            "id": 5885099,
+            "metadata": {
+                "x": 0.5369649972222222,
+                "y": 0.32640742114965987,
+                "longitude": 13.307399,
+                "latitude": 52.5002423,
+                "name": "U Adenauerplatz"
+            },
+            "name": "U Adenauerplatz"
+        },
+        {
+            "id": 5873906,
+            "metadata": {
+                "x": 0.5369629725,
+                "y": 0.32637705055632527,
+                "longitude": 13.3066701,
+                "latitude": 52.5068976,
+                "name": "U Wilmersdorfer Straße"
+            },
+            "name": "U Wilmersdorfer Straße"
+        },
+        {
+            "id": 7721098,
+            "metadata": {
+                "x": 0.5369629033333333,
+                "y": 0.3263303505574873,
+                "longitude": 13.3066452,
+                "latitude": 52.5171293,
+                "name": "U Richard-Wagner-Platz"
+            },
+            "name": "U Richard-Wagner-Platz"
+        },
+        {
+            "id": 8415123,
+            "metadata": {
+                "x": 0.5369580325,
+                "y": 0.3262881926873235,
+                "longitude": 13.3048917,
+                "latitude": 52.5263638,
+                "name": "U Mierendorffplatz"
+            },
+            "name": "Berlin, U Mierendorffplatz"
+        },
+        {
+            "id": 7720998,
+            "metadata": {
+                "x": 0.5369465166666667,
+                "y": 0.32626968644338594,
+                "longitude": 13.300746,
+                "latitude": 52.5304169,
+                "name": "U Jungfernheide"
+            },
+            "name": "Berlin, S+U Jungenfelde"
+        },
+        {
+            "id": 7721100,
+            "metadata": {
+                "x": 0.5369254988888889,
+                "y": 0.3262426237342552,
+                "longitude": 13.2931796,
+                "latitude": 52.5363433,
+                "name": "U Jakob-Kaiser-Platz"
+            },
+            "name": "U Jakob-Kaiser-Platz"
+        },
+        {
+            "id": 7721101,
+            "metadata": {
+                "x": 0.5369053077777778,
+                "y": 0.3262410783316342,
+                "longitude": 13.2859108,
+                "latitude": 52.5366817,
+                "name": "U Halemweg"
+            },
+            "name": "U Halemweg"
+        },
+        {
+            "id": 7721102,
+            "metadata": {
+                "x": 0.5368687658333333,
+                "y": 0.32624046455140215,
+                "longitude": 13.2727557,
+                "latitude": 52.5368161,
+                "name": "U Siemensdamm"
+            },
+            "name": "U Siemensdamm"
+        },
+        {
+            "id": 7721103,
+            "metadata": {
+                "x": 0.53684064,
+                "y": 0.3262394708079951,
+                "longitude": 13.2626304,
+                "latitude": 52.5370337,
+                "name": "U Rohrdamm"
+            },
+            "name": "U Rohrdamm"
+        },
+        {
+            "id": 7721104,
+            "metadata": {
+                "x": 0.53679904,
+                "y": 0.3262347719242373,
+                "longitude": 13.2476544,
+                "latitude": 52.5380626,
+                "name": "U Paulsternstraße"
+            },
+            "name": "U Paulsternstraße"
+        },
+        {
+            "id": 7721743,
+            "metadata": {
+                "x": 0.5367580011111112,
+                "y": 0.3262315595031651,
+                "longitude": 13.2328804,
+                "latitude": 52.538766,
+                "name": "U Haselhorst"
+            },
+            "name": "U Haselhorst"
+        },
+        {
+            "id": 7721105,
+            "metadata": {
+                "x": 0.5367154316666667,
+                "y": 0.3262365429811188,
+                "longitude": 13.2175554,
+                "latitude": 52.5376748,
+                "name": "U Zitadelle"
+            },
+            "name": "U Zitadelle"
+        },
+        {
+            "id": 7721106,
+            "metadata": {
+                "x": 0.536682235,
+                "y": 0.32623000442443423,
+                "longitude": 13.2056046,
+                "latitude": 52.5391065,
+                "name": "U Altstadt Spandau"
+            },
+            "name": "U Altstadt Spandau"
+        },
+        {
+            "id": 7720995,
+            "metadata": {
+                "x": 0.5366660572222223,
+                "y": 0.3262470105303489,
+                "longitude": 13.1997806,
+                "latitude": 52.5353827,
+                "name": "U Rathaus Spandau"
+            },
+            "name": "Berlin, S+U Rathaus Spandau"
+        },
+        {
+            "id": 7720994,
+            "metadata": {
+                "x": 0.5373089266666666,
+                "y": 0.32655550643476766,
+                "longitude": 13.4312136,
+                "latitude": 52.467777,
+                "name": "U Hermannstraße"
+            },
+            "name": "Berlin, S+U Hermannstraße"
+        },
+        {
+            "id": 5725006,
+            "metadata": {
+                "x": 0.5373011577777778,
+                "y": 0.3265317145541104,
+                "longitude": 13.4284168,
+                "latitude": 52.4729946,
+                "name": "U Leinestraße"
+            },
+            "name": "U Leinestraße"
+        },
+        {
+            "id": 4599283,
+            "metadata": {
+                "x": 0.5372925719444445,
+                "y": 0.32649889577116753,
+                "longitude": 13.4253259,
+                "latitude": 52.4801908,
+                "name": "U Boddinstraße"
+            },
+            "name": "U Boddinstraße"
+        },
+        {
+            "id": 5722632,
+            "metadata": {
+                "x": 0.5372836105555555,
+                "y": 0.32643999895293735,
+                "longitude": 13.4220998,
+                "latitude": 52.4931022,
+                "name": "U Schönleinstraße"
+            },
+            "name": "U Schönleinstraße"
+        },
+        {
+            "id": 5717198,
+            "metadata": {
+                "x": 0.5372521863888888,
+                "y": 0.3263920509266917,
+                "longitude": 13.4107871,
+                "latitude": 52.5036106,
+                "name": "U Moritzplatz"
+            },
+            "name": "U Moritzplatz"
+        },
+        {
+            "id": 4593881,
+            "metadata": {
+                "x": 0.5372669708333333,
+                "y": 0.32636089937505386,
+                "longitude": 13.4161095,
+                "latitude": 52.5104365,
+                "name": "U Heinrich-Heine-Straße"
+            },
+            "name": "U Heinrich-Heine-Straße"
+        },
+        {
+            "id": 7721017,
+            "metadata": {
+                "x": 0.5372729788888889,
+                "y": 0.32633531423532564,
+                "longitude": 13.4182724,
+                "latitude": 52.5160419,
+                "name": "U Jannowitzbrücke"
+            },
+            "name": "Berlin, Jannowitzbrücke"
+        },
+        {
+            "id": 1650240,
+            "metadata": {
+                "x": 0.5372345886111111,
+                "y": 0.3262908576905065,
+                "longitude": 13.4044519,
+                "latitude": 52.5257801,
+                "name": "U Weinmeisterstraße"
+            },
+            "name": "U Weinmeisterstraße"
+        },
+        {
+            "id": 5812428,
+            "metadata": {
+                "x": 0.5372246313888889,
+                "y": 0.3262701695423961,
+                "longitude": 13.4008673,
+                "latitude": 52.5303111,
+                "name": "U Rosenthaler Platz"
+            },
+            "name": "U Rosenthaler Platz"
+        },
+        {
+            "id": 1650242,
+            "metadata": {
+                "x": 0.5372131608333334,
+                "y": 0.3262375983920538,
+                "longitude": 13.3967379,
+                "latitude": 52.5374437,
+                "name": "U Bernauer Straße"
+            },
+            "name": "U Bernauer Straße"
+        },
+        {
+            "id": 5838065,
+            "metadata": {
+                "x": 0.537203085,
+                "y": 0.32621627216754706,
+                "longitude": 13.3931106,
+                "latitude": 52.5421132,
+                "name": "U Voltastraße"
+            },
+            "name": "U Voltastraße"
+        },
+        {
+            "id": 7720999,
+            "metadata": {
+                "x": 0.5371900661111111,
+                "y": 0.32618564329336713,
+                "longitude": 13.3884238,
+                "latitude": 52.5488187,
+                "name": "S+U Gesundbrunnen"
+            },
+            "name": "S+U Gesundbrunnen"
+        },
+        {
+            "id": 7721091,
+            "metadata": {
+                "x": 0.5371702572222222,
+                "y": 0.32616929851847143,
+                "longitude": 13.3812926,
+                "latitude": 52.5523966,
+                "name": "U Pankstraße"
+            },
+            "name": "U Pankstraße"
+        },
+        {
+            "id": 7720992,
+            "metadata": {
+                "x": 0.5371480266666666,
+                "y": 0.32614718510885415,
+                "longitude": 13.3732896,
+                "latitude": 52.5572368,
+                "name": "U Osloer Straße"
+            },
+            "name": "U Osloer Straße"
+        },
+        {
+            "id": 542273,
+            "metadata": {
+                "x": 0.5371222280555555,
+                "y": 0.3261137599997214,
+                "longitude": 13.3640021,
+                "latitude": 52.5645519,
+                "name": "U Franz-Neumann-Platz"
+            },
+            "name": "U Franz-Neumann-Platz"
+        },
+        {
+            "id": 7720982,
+            "metadata": {
+                "x": 0.5371122991666667,
+                "y": 0.32608219588843246,
+                "longitude": 13.3604277,
+                "latitude": 52.5714586,
+                "name": "U Residenzstraße"
+            },
+            "name": "U Residenzstraße"
+        },
+        {
+            "id": 7720990,
+            "metadata": {
+                "x": 0.5370814886111112,
+                "y": 0.32606985351609985,
+                "longitude": 13.3493359,
+                "latitude": 52.574159,
+                "name": "U Paracelsus-Bad"
+            },
+            "name": "U Paracelsus-Bad"
+        },
+        {
+            "id": 7720956,
+            "metadata": {
+                "x": 0.5370511894444444,
+                "y": 0.3260640257727634,
+                "longitude": 13.3384282,
+                "latitude": 52.575434,
+                "name": "U Lindauer Allee"
+            },
+            "name": "U Lindauer Allee"
+        },
+        {
+            "id": 7721001,
+            "metadata": {
+                "x": 0.53703676,
+                "y": 0.32604423303417834,
+                "longitude": 13.3332336,
+                "latitude": 52.579764,
+                "name": "U Karl-Bonhoeffer-Nervenklinik"
+            },
+            "name": "Berlin, S+U Karl-Bonhoeffer-Nervenklinik"
+        },
+        {
+            "id": 4730399,
+            "metadata": {
+                "x": 0.5370162338888889,
+                "y": 0.32600333632383877,
+                "longitude": 13.3258442,
+                "latitude": 52.5887095,
+                "name": "U Rathaus Reinickendorf"
+            },
+            "name": "U Rathaus Reinickendorf"
+        },
+        {
+            "id": 7720993,
+            "metadata": {
+                "x": 0.5370439311111112,
+                "y": 0.32597162677100655,
+                "longitude": 13.3358152,
+                "latitude": 52.5956442,
+                "name": "U Wittenau"
+            },
+            "name": "Berlin, S+U Wittenau"
+        },
+        {
+            "id": 7720965,
+            "metadata": {
+                "x": 0.5371307527777778,
+                "y": 0.32617355580764396,
+                "longitude": 13.367071,
+                "latitude": 52.5514647,
+                "name": "U Nauener Platz"
+            },
+            "name": "U Nauener Platz"
+        },
+        {
+            "id": 7721007,
+            "metadata": {
+                "x": 0.5371084258333333,
+                "y": 0.32619646385283124,
+                "longitude": 13.3590333,
+                "latitude": 52.5464499,
+                "name": "U Leopoldplatz"
+            },
+            "name": "U Leopoldplatz"
+        },
+        {
+            "id": 5926294,
+            "metadata": {
+                "x": 0.5370819119444444,
+                "y": 0.3262161228143209,
+                "longitude": 13.3494883,
+                "latitude": 52.5421459,
+                "name": "U Amrumer Straße"
+            },
+            "name": "U Amrumer Straße"
+        },
+        {
+            "id": 7720933,
+            "metadata": {
+                "x": 0.5370620644444445,
+                "y": 0.32624200584864343,
+                "longitude": 13.3423432,
+                "latitude": 52.5364786,
+                "name": "U Westhafen"
+            },
+            "name": "S+U Westhafen"
+        },
+        {
+            "id": 7720986,
+            "metadata": {
+                "x": 0.5370589861111111,
+                "y": 0.3262620069306089,
+                "longitude": 13.341235,
+                "latitude": 52.5320987,
+                "name": "U Birkenstraße"
+            },
+            "name": "U Birkenstraße"
+        },
+        {
+            "id": 7720950,
+            "metadata": {
+                "x": 0.5370586858333334,
+                "y": 0.3262908654521566,
+                "longitude": 13.3411269,
+                "latitude": 52.5257784,
+                "name": "U Turmstraße"
+            },
+            "name": "U Turmstraße"
+        },
+        {
+            "id": 7720976,
+            "metadata": {
+                "x": 0.5370611444444444,
+                "y": 0.3263275349828452,
+                "longitude": 13.342012,
+                "latitude": 52.5177461,
+                "name": "U Hansaplatz"
+            },
+            "name": "U Hansaplatz"
+        },
+        {
+            "id": 7721069,
+            "metadata": {
+                "x": 0.5370302947222222,
+                "y": 0.326444654708936,
+                "longitude": 13.3309061,
+                "latitude": 52.4920817,
+                "name": "U Güntzelstraße"
+            },
+            "name": "U Güntzelstraße"
+        },
+        {
+            "id": 7721009,
+            "metadata": {
+                "x": 0.5370233877777778,
+                "y": 0.32651133353667416,
+                "longitude": 13.3284196,
+                "latitude": 52.4774637,
+                "name": "U Bundesplatz"
+            },
+            "name": "Berlin, S+U Bundesplatz"
+        },
+        {
+            "id": 7721076,
+            "metadata": {
+                "x": 0.5370239183333333,
+                "y": 0.3265375683953762,
+                "longitude": 13.3286106,
+                "latitude": 52.4717109,
+                "name": "U Friedrich-Wilhelm-Platz"
+            },
+            "name": "U Friedrich-Wilhelm-Platz"
+        },
+        {
+            "id": 7721077,
+            "metadata": {
+                "x": 0.5370227097222222,
+                "y": 0.3265653573336535,
+                "longitude": 13.3281755,
+                "latitude": 52.4656165,
+                "name": "U Walther-Schreiber-Platz"
+            },
+            "name": "U Walther-Schreiber-Platz"
+        },
+        {
+            "id": 7721078,
+            "metadata": {
+                "x": 0.5370139408333333,
+                "y": 0.326584457717534,
+                "longitude": 13.3250187,
+                "latitude": 52.4614271,
+                "name": "U Schloßstraße"
+            },
+            "name": "U Schloßstraße"
+        },
+        {
+            "id": 7720987,
+            "metadata": {
+                "x": 0.5370022358333333,
+                "y": 0.32660549047433507,
+                "longitude": 13.3208049,
+                "latitude": 52.4568134,
+                "name": "S+U Rathaus Steglitz"
+            },
+            "name": "U Rathaus Steglitz"
+        },
+        {
+            "id": 5699655,
+            "metadata": {
+                "x": 0.5371698983333333,
+                "y": 0.3263324745373001,
+                "longitude": 13.3811634,
+                "latitude": 52.516664,
+                "name": "U Brandenburger Tor"
+            },
+            "name": "Berlin, Brandenburger Tor"
+        },
+        {
+            "id": 6266990,
+            "metadata": {
+                "x": 0.5371474125,
+                "y": 0.32631638002528257,
+                "longitude": 13.3730685,
+                "latitude": 52.5201897,
+                "name": "U Bundestag"
+            },
+            "name": "Berlin, U Bundestag"
+        },
+        {
+            "id": 5688523,
+            "metadata": {
+                "x": 0.5371396825,
+                "y": 0.32629323730707116,
+                "longitude": 13.3702857,
+                "latitude": 52.5252589,
+                "name": "U Hauptbahnhof"
+            },
+            "name": "Berlin, Hauptbahnhof"
+        },
+        {
+            "id": 5730255,
+            "metadata": {
+                "x": 0.5371878319444444,
+                "y": 0.3266837149748778,
+                "longitude": 13.3876195,
+                "latitude": 52.43965,
+                "name": "U Alt Mariendorf"
+            },
+            "name": "U Alt-Mariendorf"
+        },
+        {
+            "id": 5865403,
+            "metadata": {
+                "x": 0.5371826577777777,
+                "y": 0.32665351514469626,
+                "longitude": 13.3857568,
+                "latitude": 52.446277,
+                "name": "U Westphalweg"
+            },
+            "name": "Berlin, U Westphalweg"
+        },
+        {
+            "id": 5865402,
+            "metadata": {
+                "x": 0.5371790461111111,
+                "y": 0.3266172579550223,
+                "longitude": 13.3844566,
+                "latitude": 52.4542319,
+                "name": "U Ullsteinstraße"
+            },
+            "name": "U Ullsteinstraße"
+        },
+        {
+            "id": 5865400,
+            "metadata": {
+                "x": 0.5371797155555555,
+                "y": 0.3265911702770554,
+                "longitude": 13.3846976,
+                "latitude": 52.4599547,
+                "name": "U Kaiserin-Augusta-Straße"
+            },
+            "name": "Berlin, U Kaiserin-Augusta-Straße"
+        },
+        {
+            "id": 5865399,
+            "metadata": {
+                "x": 0.5371826027777777,
+                "y": 0.3265649228191238,
+                "longitude": 13.385737,
+                "latitude": 52.4657118,
+                "name": "U Alt-Tempelhof"
+            },
+            "name": "Berlin, U Alt-Tempelhof"
+        },
+        {
+            "id": 7721005,
+            "metadata": {
+                "x": 0.5371824369444445,
+                "y": 0.3265457070349858,
+                "longitude": 13.3856773,
+                "latitude": 52.4699261,
+                "name": "U Tempelhof"
+            },
+            "name": "Berlin, S+U Tempelhof"
+        },
+        {
+            "id": 7721737,
+            "metadata": {
+                "x": 0.5371843741666666,
+                "y": 0.3265083668044188,
+                "longitude": 13.3863747,
+                "latitude": 52.4781142,
+                "name": "U Paradestraße"
+            },
+            "name": "U Paradestraße"
+        },
+        {
+            "id": 5734448,
+            "metadata": {
+                "x": 0.5371832941666667,
+                "y": 0.326470323526351,
+                "longitude": 13.3859859,
+                "latitude": 52.4864549,
+                "name": "U Platz der Luftbrücke"
+            },
+            "name": "Berlin, U Platz der Luftbrücke"
+        },
+        {
+            "id": 7720991,
+            "metadata": {
+                "x": 0.5371962152777778,
+                "y": 0.32637941363403866,
+                "longitude": 13.3906375,
+                "latitude": 52.5063798,
+                "name": "U Kochstraße/Checkpoint Charlie"
+            },
+            "name": "Berlin, U Kochstraße/Checkpoint Charlie"
+        },
+        {
+            "id": 8450289,
+            "metadata": {
+                "x": 0.5371922116666666,
+                "y": 0.32633973734666855,
+                "longitude": 13.3891962,
+                "latitude": 52.5150729,
+                "name": "U Französische Straße"
+            },
+            "name": "Berlin, U Französische Straße"
+        },
+        {
+            "id": 5708903,
+            "metadata": {
+                "x": 0.5371897911111111,
+                "y": 0.3263156240440144,
+                "longitude": 13.3883248,
+                "latitude": 52.5203553,
+                "name": "U Friedrichstraße"
+            },
+            "name": "Berlin, Friedrichsstraße"
+        },
+        {
+            "id": 5829216,
+            "metadata": {
+                "x": 0.5371872758333334,
+                "y": 0.32629162198332534,
+                "longitude": 13.3874193,
+                "latitude": 52.5256127,
+                "name": "U Oranienburger Tor"
+            },
+            "name": "U Oranienburger Tor"
+        },
+        {
+            "id": 7721092,
+            "metadata": {
+                "x": 0.5371743330555555,
+                "y": 0.32626759147882356,
+                "longitude": 13.3827599,
+                "latitude": 52.5308757,
+                "name": "U Naturkundemuseum"
+            },
+            "name": "U Naturkundemuseum"
+        },
+        {
+            "id": 7720971,
+            "metadata": {
+                "x": 0.5371591938888889,
+                "y": 0.3262476795471359,
+                "longitude": 13.3773098,
+                "latitude": 52.5352362,
+                "name": "U Schwartzkopffstraße"
+            },
+            "name": "U Schwartzkopffstraße"
+        },
+        {
+            "id": 7721093,
+            "metadata": {
+                "x": 0.5371392697222223,
+                "y": 0.3262250924886129,
+                "longitude": 13.3701371,
+                "latitude": 52.540182,
+                "name": "U Reinickendorfer Straße"
+            },
+            "name": "U Reinickendorfer Straße"
+        },
+        {
+            "id": 7720938,
+            "metadata": {
+                "x": 0.5371242716666667,
+                "y": 0.3262108999488075,
+                "longitude": 13.3647378,
+                "latitude": 52.5432894,
+                "name": "U Wedding"
+            },
+            "name": "S+U Wedding"
+        },
+        {
+            "id": 7721094,
+            "metadata": {
+                "x": 0.5370921611111111,
+                "y": 0.3261811962249151,
+                "longitude": 13.353178,
+                "latitude": 52.5497922,
+                "name": "U Seestraße"
+            },
+            "name": "U Seestraße"
+        },
+        {
+            "id": 5926296,
+            "metadata": {
+                "x": 0.5370583519444444,
+                "y": 0.3261496468437275,
+                "longitude": 13.3410067,
+                "latitude": 52.556698,
+                "name": "U Rehberge"
+            },
+            "name": "U Rehberge"
+        },
+        {
+            "id": 5926293,
+            "metadata": {
+                "x": 0.5370396152777778,
+                "y": 0.32613226693363934,
+                "longitude": 13.3342615,
+                "latitude": 52.5605018,
+                "name": "U Afrikanische Straße"
+            },
+            "name": "U Afrikanische Straße"
+        },
+        {
+            "id": 5926295,
+            "metadata": {
+                "x": 0.5370198947222222,
+                "y": 0.3261196150854787,
+                "longitude": 13.3271621,
+                "latitude": 52.5632706,
+                "name": "U Kurt-Schumacher-Platz"
+            },
+            "name": "U Kurt-Schumacher-Platz"
+        },
+        {
+            "id": 5926584,
+            "metadata": {
+                "x": 0.5369798169444444,
+                "y": 0.32610329097436835,
+                "longitude": 13.3127341,
+                "latitude": 52.5668428,
+                "name": "U Scharnweberstraße"
+            },
+            "name": "U Scharnweberstraße"
+        },
+        {
+            "id": 7720963,
+            "metadata": {
+                "x": 0.5369527744444444,
+                "y": 0.32608398109089165,
+                "longitude": 13.3029988,
+                "latitude": 52.571068,
+                "name": "U Otisstraße"
+            },
+            "name": "U Otisstraße"
+        },
+        {
+            "id": 5926583,
+            "metadata": {
+                "x": 0.5369335819444444,
+                "y": 0.3260622888439291,
+                "longitude": 13.2960895,
+                "latitude": 52.575814,
+                "name": "U Holzhauser Straße"
+            },
+            "name": "U Holzhauser Straße"
+        },
+        {
+            "id": 8448808,
+            "metadata": {
+                "x": 0.5369190291666667,
+                "y": 0.32603587561471986,
+                "longitude": 13.2908505,
+                "latitude": 52.5815922,
+                "name": "U Borsigwerke"
+            },
+            "name": "Berlin, U Borsigwerke"
+        },
+        {
+            "id": 7720968,
+            "metadata": {
+                "x": 0.5368990111111112,
+                "y": 0.3259989208726165,
+                "longitude": 13.283644,
+                "latitude": 52.5896752,
+                "name": "U Alt-Tegel"
+            },
+            "name": "U Alt-Tegel"
+        }
+    ],
+    "edges": [
+        {
+            "source": 5766353,
+            "target": 23333,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 23333,
+            "target": 5842759,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5842759,
+            "target": 4196777,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 4196777,
+            "target": 5757994,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5757994,
+            "target": 5842758,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5842758,
+            "target": 7721111,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 7721111,
+            "target": 5837155,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5837155,
+            "target": 7721016,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 7721016,
+            "target": 6914398,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 6914398,
+            "target": 8435157,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 8435157,
+            "target": 7720980,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 7720980,
+            "target": 5763787,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5763787,
+            "target": 1389346,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 1389346,
+            "target": 5837157,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5837157,
+            "target": 5837156,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 5837156,
+            "target": 2302439,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 2302439,
+            "target": 2302436,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 2302436,
+            "target": 7721738,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 7721738,
+            "target": 5843153,
+            "metadata": {
+                "lines": [
+                    "U5",
+                    "U5"
+                ]
+            }
+        },
+        {
+            "source": 7721015,
+            "target": 7720942,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7720942,
+            "target": 7721013,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721013,
+            "target": 7721090,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721090,
+            "target": 7720981,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7720981,
+            "target": 7721088,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721088,
+            "target": 5766353,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5766353,
+            "target": 1645144,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 1645144,
+            "target": 4593882,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 4593882,
+            "target": 4593886,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 4593886,
+            "target": 7720988,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7720988,
+            "target": 7720948,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7720948,
+            "target": 5710288,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5710288,
+            "target": 5686717,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5686717,
+            "target": 2355893,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 2355893,
+            "target": 7721012,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721012,
+            "target": 7721744,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721744,
+            "target": 7721011,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721011,
+            "target": 5885101,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2",
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5885101,
+            "target": 7721000,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721000,
+            "target": 7721096,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721096,
+            "target": 7721097,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721097,
+            "target": 7721008,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7721008,
+            "target": 5873395,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5873395,
+            "target": 5873394,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5873394,
+            "target": 8433878,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 8433878,
+            "target": 8465463,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 8465463,
+            "target": 7720974,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 7720974,
+            "target": 8120820,
+            "metadata": {
+                "lines": [
+                    "U2",
+                    "U2"
+                ]
+            }
+        },
+        {
+            "source": 5885100,
+            "target": 1244521,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1"
+                ]
+            }
+        },
+        {
+            "source": 1244521,
+            "target": 5885101,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1"
+                ]
+            }
+        },
+        {
+            "source": 7721011,
+            "target": 5864581,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5864581,
+            "target": 7721012,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721012,
+            "target": 7721006,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721006,
+            "target": 7720996,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7720996,
+            "target": 5736036,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5736036,
+            "target": 7721264,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721264,
+            "target": 5717197,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5717197,
+            "target": 4593884,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 4593884,
+            "target": 8420881,
+            "metadata": {
+                "lines": [
+                    "U1",
+                    "U1",
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5147807,
+            "target": 5880427,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5880427,
+            "target": 5147891,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5147891,
+            "target": 5880428,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5880428,
+            "target": 5679048,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 5679048,
+            "target": 7720970,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7720970,
+            "target": 7721080,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721080,
+            "target": 7721079,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721079,
+            "target": 7720997,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7720997,
+            "target": 7721110,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721110,
+            "target": 7720960,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7720960,
+            "target": 7721108,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7721108,
+            "target": 7720985,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 7720985,
+            "target": 5885101,
+            "metadata": {
+                "lines": [
+                    "U3",
+                    "U3"
+                ]
+            }
+        },
+        {
+            "source": 177616,
+            "target": 7720978,
+            "metadata": {
+                "lines": [
+                    "U4",
+                    "U4"
+                ]
+            }
+        },
+        {
+            "source": 7720978,
+            "target": 7721107,
+            "metadata": {
+                "lines": [
+                    "U4",
+                    "U4"
+                ]
+            }
+        },
+        {
+            "source": 7721107,
+            "target": 7720977,
+            "metadata": {
+                "lines": [
+                    "U4",
+                    "U4"
+                ]
+            }
+        },
+        {
+            "source": 7720977,
+            "target": 7721011,
+            "metadata": {
+                "lines": [
+                    "U4",
+                    "U4"
+                ]
+            }
+        },
+        {
+            "source": 8419692,
+            "target": 1206986,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 1206986,
+            "target": 5829684,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5829684,
+            "target": 5689162,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5689162,
+            "target": 5668728,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5668728,
+            "target": 5689161,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5689161,
+            "target": 7721085,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721085,
+            "target": 7721084,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721084,
+            "target": 5683976,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5683976,
+            "target": 7720936,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7720936,
+            "target": 7721083,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721083,
+            "target": 1655775,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 1655775,
+            "target": 7721260,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721260,
+            "target": 7721082,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721082,
+            "target": 6015042,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 6015042,
+            "target": 8413317,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 8413317,
+            "target": 7721006,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721006,
+            "target": 7721002,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721002,
+            "target": 5885769,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5885769,
+            "target": 7721066,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721066,
+            "target": 7721107,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721107,
+            "target": 7721109,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721109,
+            "target": 7721074,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721074,
+            "target": 7721110,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721110,
+            "target": 7721075,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721075,
+            "target": 5885099,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5885099,
+            "target": 5873906,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 5873906,
+            "target": 7721008,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721008,
+            "target": 7721098,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721098,
+            "target": 8415123,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 8415123,
+            "target": 7720998,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7720998,
+            "target": 7721100,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721100,
+            "target": 7721101,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721101,
+            "target": 7721102,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721102,
+            "target": 7721103,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721103,
+            "target": 7721104,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721104,
+            "target": 7721743,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721743,
+            "target": 7721105,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721105,
+            "target": 7721106,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7721106,
+            "target": 7720995,
+            "metadata": {
+                "lines": [
+                    "U7",
+                    "U7"
+                ]
+            }
+        },
+        {
+            "source": 7720994,
+            "target": 5725006,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5725006,
+            "target": 4599283,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 4599283,
+            "target": 7721260,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7721260,
+            "target": 5722632,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5722632,
+            "target": 7721264,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7721264,
+            "target": 5717198,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5717198,
+            "target": 4593881,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 4593881,
+            "target": 7721017,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7721017,
+            "target": 5766353,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5766353,
+            "target": 1650240,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 1650240,
+            "target": 5812428,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5812428,
+            "target": 1650242,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 1650242,
+            "target": 5838065,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 5838065,
+            "target": 7720999,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720999,
+            "target": 7721091,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7721091,
+            "target": 7720992,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720992,
+            "target": 542273,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 542273,
+            "target": 7720982,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720982,
+            "target": 7720990,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720990,
+            "target": 7720956,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720956,
+            "target": 7721001,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7721001,
+            "target": 4730399,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 4730399,
+            "target": 7720993,
+            "metadata": {
+                "lines": [
+                    "U8",
+                    "U8"
+                ]
+            }
+        },
+        {
+            "source": 7720992,
+            "target": 7720965,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7720965,
+            "target": 7721007,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721007,
+            "target": 5926294,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 5926294,
+            "target": 7720933,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7720933,
+            "target": 7720986,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7720986,
+            "target": 7720950,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7720950,
+            "target": 7720976,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7720976,
+            "target": 7721000,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721000,
+            "target": 1244521,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 1244521,
+            "target": 7721108,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721108,
+            "target": 7721069,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721069,
+            "target": 7721109,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721109,
+            "target": 7721009,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721009,
+            "target": 7721076,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721076,
+            "target": 7721077,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721077,
+            "target": 7721078,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 7721078,
+            "target": 7720987,
+            "metadata": {
+                "lines": [
+                    "U9",
+                    "U9"
+                ]
+            }
+        },
+        {
+            "source": 5699655,
+            "target": 6266990,
+            "metadata": {
+                "lines": [
+                    "U55",
+                    "U55"
+                ]
+            }
+        },
+        {
+            "source": 6266990,
+            "target": 5688523,
+            "metadata": {
+                "lines": [
+                    "U55",
+                    "U55"
+                ]
+            }
+        },
+        {
+            "source": 5730255,
+            "target": 5865403,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5865403,
+            "target": 5865402,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5865402,
+            "target": 5865400,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5865400,
+            "target": 5865399,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5865399,
+            "target": 7721005,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721005,
+            "target": 7721737,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721737,
+            "target": 5734448,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5734448,
+            "target": 8413317,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 8413317,
+            "target": 7720996,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720996,
+            "target": 7720991,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720991,
+            "target": 7720948,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720948,
+            "target": 8450289,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 8450289,
+            "target": 5708903,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5708903,
+            "target": 5829216,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5829216,
+            "target": 7721092,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721092,
+            "target": 7720971,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720971,
+            "target": 7721093,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721093,
+            "target": 7720938,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720938,
+            "target": 7721007,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721007,
+            "target": 7721094,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7721094,
+            "target": 5926296,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5926296,
+            "target": 5926293,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5926293,
+            "target": 5926295,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5926295,
+            "target": 5926584,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5926584,
+            "target": 7720963,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 7720963,
+            "target": 5926583,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 5926583,
+            "target": 8448808,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        },
+        {
+            "source": 8448808,
+            "target": 7720968,
+            "metadata": {
+                "lines": [
+                    "U6",
+                    "U6"
+                ]
+            }
+        }
+    ],
+    "lines": [
+        {
+            "id": "U5",
+            "group": "U5",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U2",
+            "group": "U2",
+            "osmMode": "subway",
+            "color": "#2af"
+        },
+        {
+            "id": "U1",
+            "group": "U1",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U3",
+            "group": "U1",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U4",
+            "group": "U4",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U7",
+            "group": "U7",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U8",
+            "group": "U8",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U9",
+            "group": "U9",
+            "osmMode": "subway"
+        },
+        {
+            "id": "U55",
+            "group": "U55",
+            "osmMode": "subway",
+            "color": "#f00"
+        },
+        {
+            "id": "U6",
+            "group": "U6",
+            "osmMode": "subway"
+        }
+    ]
+}

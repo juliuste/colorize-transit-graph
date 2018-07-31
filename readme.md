@@ -1,6 +1,6 @@
 # colorize-transit-graph
 
-Add line colors to a given transit graph, e.g. generated using [`osm-transit-graph`](https://github.com/juliuste/osm-transit-graph).
+Add “random” line colors to a given transit graph, e.g. generated using [`osm-transit-graph`](https://github.com/juliuste/osm-transit-graph).
 
 [![npm version](https://img.shields.io/npm/v/colorize-transit-graph.svg)](https://www.npmjs.com/package/colorize-transit-graph)
 [![Build Status](https://travis-ci.org/juliuste/colorize-transit-graph.svg?branch=master)](https://travis-ci.org/juliuste/colorize-transit-graph)

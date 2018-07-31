@@ -1,7 +1,7 @@
 {
 	"name": "colorize-transit-graph",
 	"description": "Add “random” line colors to a given transit graph.",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"keywords": [
 		"transit",
 		"transport",
